@@ -1,5 +1,4 @@
 # Project Title
-
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 **<u>IMPORTANT:</u>** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
@@ -10,7 +9,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
   - [Features](#features)
   - [Known Issues \& To-do](#known-issues--to-do)
   - [Preview](#preview)
-  - [Installation](#installation)
+  - [Run the Application](#run-the-application)
     - [1. Requirements](#1-requirements)
     - [2. Clone the Source](#2-clone-the-source)
     - [3. Start the Application](#3-start-the-application)
@@ -61,8 +60,8 @@ This is an overview of the already known problems and bugs as well as a collecti
 
 ![Alt Text](./assets/images/sample.jpg "Image Description")
 
-## Installation
-Follow these steps to launch the application.
+## Run the Application
+Follow these steps to run the application.
 
 ### 1. Requirements
 All you need is a web browser like one of the following:
