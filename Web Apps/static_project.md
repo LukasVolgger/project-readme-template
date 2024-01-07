@@ -97,7 +97,7 @@ Please note the following license terms with regard to the graphics used and the
 <!-- CHOOSE ONE -->
 
 <!-- 1. Public Domain -->
-All graphics/images used are licensed under the Creative Commons license CC0 Public Domain. [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+All graphics/images used are licensed under the Creative Commons license [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 <!-- 2. Online Courses -->
 All graphics/images are property of [License Owner](https://samplepage.com). The graphics are left to the participants of the course for learning purposes for use in the projects and are subject to the copyright of the [License Owner](https://samplepage.com).
